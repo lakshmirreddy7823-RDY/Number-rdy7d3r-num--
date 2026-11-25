@@ -89,9 +89,8 @@ The developer is not responsible for misuse of this software.
 
 ## 👨‍💻 Developer
 
-**r0Xd||7d3r**
+**Rdy7d3r**
 
-Project: **RDY7D3R**
 
 *Research • Information • Technology*
 
